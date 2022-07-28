@@ -1,0 +1,7 @@
+set_io x  3
+set_io y  64
+set_io z  62
+
+
+set_io m   26
+
